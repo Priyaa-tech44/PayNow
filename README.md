@@ -1,3 +1,3 @@
-Janकारी is your Digital Sathi—जहाँ ज़मीन के rules और rights आसान भाषा में समझें, सरकार की हर नई scheme और मदद सीधे phone पर पाएँ, फसल बेचने के सही नियम जानें और मंडी में पूरा दाम लें, अपने गाँव के 10 km के दायरे में ही नई नौकरी पाएँ, और कानूनी जानकारी, ज़मीन के कागज़ व रोज़गार के मौक़े सब एक click में मिलें। Janकारी हर किसान, हर महिला, हर युवा को सही जानकारी, सही मौक़ा और सही भविष्य देने वाली Digital Shakti है—connecting villages to growth, markets to fairness, and people to opportunities
-I've created this app when i was learning and doing the course from Google called Google Startup School Prompt To Prototype.
-This app creation taught me ways to write effective prompts in order to get the effective outcomes.
+PayNow: Your Secure Financial Ally. Built on RBI Trust, delivering Seamless BNPL, Investments, and Guaranteed 24-Hour Refunds—with No Hidden Fees and Your Absolute Consent.
+I've created this app with the help of AI with the guidance Google professors during the learning process of my course called Google Startup School: Propmt To Prototype.
+This course help me build strong knowledge regarding the effective prompting to get the effective results from AI with use of prompting framewrok.
